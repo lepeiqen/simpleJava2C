@@ -15,6 +15,8 @@
 
 7. run 'ldd testjni' : check the libs this bin/so depend on.
 
+8. libs dirs only effective in current diretory, and not desend into child dirs, so you need to name it explicitly
+
 
 libjvm.conf :
 /usr/lib/jvm/java-1.8.0-openjdk-amd64/jre/lib/amd64/server
