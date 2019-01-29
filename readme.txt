@@ -10,3 +10,5 @@
 5 in the cur dir(have Cmakelists.txt and src files): mkdir build; cd build ;cmake ..; make ;
 
 6. jdk installed : /usr/lib/jvm/java-1.8.0-openjdk-amd64/
+
+7. run 'ldd testjni' : check the libs this bin/so depend on.
