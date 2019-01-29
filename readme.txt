@@ -8,3 +8,5 @@
 4 CMakeLists.txt  : need change according to note
 
 5 in the cur dir(have Cmakelists.txt and src files): mkdir build; cd build ;cmake ..; make ;
+
+6. jdk installed : /usr/lib/jvm/java-1.8.0-openjdk-amd64/
